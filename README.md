@@ -1,16 +1,33 @@
-## Hi there 👋
+## Armin Jöllenbeck
 
-<!--
-**armin-joellenbeck/armin-joellenbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email: armin@joellenbeck.net
+Homepage: https://joellenbeck.net
 
-Here are some ideas to get you started:
+Software Engineer:
+  * since 2001
+  * mainly in Finance and Insurance
+  * available for hire
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming languages:
+  * C
+  * C++
+  * HTML
+  * Java
+  * Ruby
+  * Rust
+
+Technology:
+  * Docker
+  * NixOS
+  * Linux System Administration
+
+Basic experience with:
+  * CSS
+  * Javascript
+  * SQL
+
+Acadamic Background:
+  * Mathematician
+  * Dr. rer. nat, Christian-Albrechts-Universität zu Kiel 1997
+  * see on [The Mathematics Genealogy Project](https://mathgenealogy.org/id.php?id=27404)
+  * [Mathematical Papers](https://joellenbeck.net/papers)
